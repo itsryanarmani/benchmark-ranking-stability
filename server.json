@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/benchmark-ranking-stability",
+  "name": "io.github.itsryanarmani/benchmark-ranking-stability",
   "description": "Evaluate reasoning prompts and inspect model ranking stability across resampled reports.",
   "version": "0.2.0",
   "repository": {
